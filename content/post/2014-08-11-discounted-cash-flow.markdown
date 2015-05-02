@@ -13,16 +13,16 @@ categories:
 [![goose](/images/2014/07/goose.jpg)](/images/2014/07/goose.jpg)
 
 ใครมาถึงโพสนี้เลยกลับไปอ่านสองอันแรกก่อน อันนี้จะต่อยอดมาจาก discounted value นะ
-<!-- more -->
+<!--more-->
 
 
 
 
 
-  1. [พลังของดอกเบี้ยทบต้น](http://www.varokas.com/power-of-compound-interest/)
+  1. [พลังของดอกเบี้ยทบต้น](/post/power-of-compound-interest/)
 
 
-  2. [พื้นฐานคำนวณราคาหุ้น : Discounted Value](http://www.varokas.com/pricing-discount-value/)
+  2. [พื้นฐานคำนวณราคาหุ้น : Discounted Value](/post/pricing-discount-value/)
 
 
 
@@ -80,72 +80,72 @@ categories:
 
 <tbody >
 <tr >
-  
+
 <td >1
 </td>
-  
+
 <td >100
 </td>
-  
+
 <td >$latex \frac{100}{\left({{1}+{0.04}}\right)^{1}}&s;=2$
 </td>
-  
+
 <td >96
 </td>
 </tr>
 <tr >
-  
+
 <td >2
 </td>
-  
+
 <td >100
 </td>
-  
+
 <td >$latex \frac{100}{\left({{1}+{0.04}}\right)^{2}}&s;=2$
 </td>
-  
+
 <td >92
 </td>
 </tr>
 <tr >
-  
+
 <td >3
 </td>
-  
+
 <td >100
 </td>
-  
+
 <td >$latex \frac{100}{\left({{1}+{0.04}}\right)^{3}}&s;=2$
 </td>
-  
+
 <td >89
 </td>
 </tr>
 <tr >
-  
+
 <td >4
 </td>
-  
+
 <td >100
 </td>
-  
+
 <td >$latex \frac{100}{\left({{1}+{0.04}}\right)^{4}}&s;=2$
 </td>
-  
+
 <td >85
 </td>
 </tr>
 <tr >
-  
+
 <td >5
 </td>
-  
+
 <td >100
 </td>
-  
+
 <td >$latex \frac{100}{\left({{1}+{0.04}}\right)^{5}}&s;=2$
 </td>
-  
+
 <td >82
 </td>
 </tr>

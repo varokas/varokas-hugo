@@ -15,7 +15,7 @@ Since I've lived in Seattle for a while. People asked me what are some of the t
 Obviously this is my heavily biased opinion. Seattle's a great city (especially so if you like nature and hiking). To reduce down to just one item for each category turns out to be really hard.
 
 But here they are. The list of the very best that Seattle has to offer.
-
+<!--more-->
 
 
 ## City View
@@ -111,34 +111,32 @@ Hiram M. Chittenden Locks AKA [Ballard Locks](http://www.yelp.com/biz/hiram-m-ch
 
 
 
-    
+
   * Sockeye Salmon has red meat by nature. Don't be alarmed. They tasted really good. In matter of fact, try all type of salmons while you're here
 
-    
+
   * There's nothing to see up top of Space Needle, no need to go up there.
 
-    
+
   * Bainbridge Island is a bit overrated. The ferry view is super-nice, but there's nothing to do on the island
 
-    
+
   * Leavenworth is nice, but not worth 2 hrs drive. If you want to see German town, better visit Germany
 
-    
+
   * Point Defiance Park Zoo has Polar Bears !
 
-    
+
   * Best Pasta I had in my Life: Il Corvo
 
-    
+
   * Other restaurants to consider (fine dining) : Matts in the Market, Zoe, Tanaka San, Serious Pie
 
-    
+
   * First Starbuck shop is so-so, visit it while you were at Pike Place market. But don't miss the Starbucks Reserve Tasting Room.
 
-    
+
   * Fun Fact: Seattle city today is built on top of a burnt down city. If that intrigued you, take the underground tour to see the underground level of Seattle. There's not much to see, but looking up at people walking on the street is pretty cool.
 
-    
+
   * Another park worth visiting : Olympic National Park
-
-

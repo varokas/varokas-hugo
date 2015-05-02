@@ -13,7 +13,7 @@ tags:
 - self
 ---
 
-[caption id="attachment_952" align="alignnone" width="420"]![รูปจาก: http://management4volunteers.files.wordpress.com](/images/2014/09/line-in-the-sand1.jpg) รูปจาก: http://management4volunteers.files.wordpress.com[/caption]
+![รูปจาก: http://management4volunteers.files.wordpress.com](/images/2014/09/line-in-the-sand1.jpg)
 
 หลังจากสังเกตมานานแล้วว่าอะไรคือข้อจำกัดของคนแต่ละคน ซึ่งสุดท้ายก็จบลงที่ข้อจำกัดที่ทุกคนกำหนดเอาไว้ให้กับตนเองเท่านั้น
 
@@ -32,6 +32,8 @@ tags:
 
 
 คือเวลาที่บอกตัวเองว่า “ทำไม่ได้” มันก็จะไม่ได้เริ่มลองทำ และสุดท้ายก็จะทำไม่ได้จริงๆ นั่นแหละครับ
+
+<!--more-->
 
 
 
@@ -69,7 +71,7 @@ tags:
   * Agile Tour Bangkok 2012 - กลัวฝรั่งไม่มา กลัวตั๋วแพงคนไม่มา (ก็จัดได้)
 
 
-  * Agile Thailand 2013 - กลัว workshop ไม่มีคนมา (ก็ขายหมด) 
+  * Agile Thailand 2013 - กลัว workshop ไม่มีคนมา (ก็ขายหมด)
 
 
   * Agile Thailand 2014 - อันนี้ถูกใจผมที่สุดคือคำพูดว่า “งานแบบ open space ไม่เหมาะกับคนไทย” ซึ่งก็พิสูจน์แล้วว่า ทุกคนทำได้ แบ่งปันความรู้กันเองได้ คนไทยทำได้ ไม่ล่ม เปิดมาตรฐานใหม่ว่าอะไรแบบนี้ในเมืองไทยก็เป็นไปได้

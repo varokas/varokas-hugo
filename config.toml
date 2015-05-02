@@ -1,3 +1,19 @@
+theme = "hyde-x"
 baseurl = "http://varokas.github.io"
 languageCode = "en-us"
 title = "varokas"
+disqusShortname = "varokas"
+
+[author]
+  name = "VP"
+
+[params]
+  #theme = "theme-base-0d"
+  highlight = "railscasts"
+  tagline = "Minimal Engineering"
+
+  github = "https://www.github.com/varokas"
+  facebook = "https://www.facebook.com/varokas"
+  linkedin = "https://www.linkedin.com/in/varokas"
+
+  googleAnalytics = "UA-37124574-3"

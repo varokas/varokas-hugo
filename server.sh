@@ -1,1 +1,1 @@
-hugo server --watch -t hyde
+hugo server --watch 
