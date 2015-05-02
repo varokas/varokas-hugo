@@ -1,0 +1,108 @@
+---
+author: varokas
+comments: true
+date: 2010-03-22 01:36:30+00:00
+layout: post
+slug: openup
+title: OpenUP
+wordpress_id: 89
+categories:
+- Software Engineering
+---
+
+OpenUP is what you get when you try to fit Agile practices in to the Unified process framework. The author(s) claim that the resulting process is an Agile one, a statement which might raise some eyebrows when looked closely at the specific practices prescribed. This [paper](https://docs.google.com/viewer?url=http://www.eclipse.org/epf/general/OpenUP.pdf) serve as an introduction to OpenUP and provide rationales why OpenUP is considered Agile according to the [Agile manifesto](http://agilemanifesto.org/).
+
+
+### Using OpenUP
+
+
+We can start with reading about OpenUP from the [official site](http://epf.eclipse.org/wikis/openup/). While this could be a little overwhelming at first, following these step should help us make sense out of OpenUP a little faster.
+
+
+
+	
+  1. The obvious starting point is the Introduction Page. There are two levels of planning in OpenUP. First, there's a project plan that roughly define iterations and milestones to accomplish for all phases. Then we move on to iteration plan (comparable to SCRUM's sprint) which pretty much defines what is to deliver in each increment. Iteration plan consist of multiple work items (tasks) to be completed.![](http://epf.eclipse.org/wikis/openup/publish.openup.base/guidances/supportingmaterials/resources/three_layers.jpg)
+
+	
+  2. Read about all practices in general. There are two types of practices in OpenUP: Management and Technical. Majority of these should be very familiar to those who use Agile in their everyday's life.
+
+	
+  3. Skim description of roles
+
+	
+  4. Open up a section about work products ( artifacts ). See the example of [project plan](http://epf.eclipse.org/wikis/openup/practice.mgmt.risk_value_lifecycle.base/guidances/examples/project_plan_E5DC99B6.html) and [iteration plan](http://epf.eclipse.org/wikis/openup/practice.mgmt.iterative_dev.base/guidances/examples/iteration_plan_58A0B3FF.html) under "Project Management" section and take a quick look at them. Note that each phase are subdivided into iterations with goals as an acceptance criteria for that iteration.
+
+	
+  5. Read about activities in each phase. These are obscurely placed under the "Delivery Processes" section. Click on the name of each phase to open it up. Then click on the (Phase name)[1..n] picture to see what's inside.
+
+	
+  6. Now we should be able to see an overall view of each phase. We are likely to refer back to this when we are doing the project/iteration planning. Click on the activity name (eg. Initiate Project) to see the step details, roles involved and work products expected.
+
+
+
+
+### Differences from XP/SCRUM
+
+
+In principle, OpenUP looks like any Agile processes with a little more detailed practices defined. However, those who exposed to XP/SCRUM flavor of Agile (likely to be majority of us) would quickly see these differences.
+
+
+
+	
+  * Phases (Inception, Elaboration, Construction, Transition) are defined - This obviously comes from an influence of Unified Process.
+
+	
+  * Roles and responsibilities are defined
+
+	
+  * Work products that are expected as a milestone document (Project plan, risk list, architecture notebook, etc.)
+
+	
+  * Explicit risk management
+
+	
+  * Encourage early architectural design
+
+	
+  * Project plan with estimated dates for completion
+
+
+
+
+### My take on OpenUP
+
+
+
+
+
+	
+  * I really like the idea of having a project plan. As much as we hate it, deadlines are part of life. The first thing you need to answers to management is the one million dollars question (sometimes literally!) of "when it's going to be done?". This might be challenging to answer with typical SCRUM backlog as things are being added all the time, so we really have control of only what's in each iteration but not the overall plan for the project.  Having the project plan laid out a big picture of what's going to be done, help us track if the project is really going to be finished in time and help management make the right decision dealing with big changes. This is what (conceptually) happened when I used OpenUP:
+**
+[After Construction 2 product review]
+** **Customer**: Yeah, I really like what you guys did for the graph here. This reminds me that we need to do a major overhaul to the input screen before this one. We also need some kind of batch processing for all these incoming data as well. As I look at it, I don't think this program would make sense without these two things.
+** PM**: That might take a while to do. What do you guys think?
+** Dev #1:** My ballpark -- 10 person days.
+** Dev #2: **Yeah sounds about right.
+** PM:** (pulls out the project plan) Let's see, we are at the end of construction 2. We have construction 3, 4 and 5 to go. What if we move the profile page planned in Construction 4 to 'nice to have'?
+** Customer: **No, I need that, too. I think we can push the form attachment later, though.
+** PM: **(move things in project plan). So, I'm putting in the two new things right here in construction 3, pushing everything down. Move attachment feature to nice to have for Construction 5. How does this sounds?
+** Customer**: Sounds good to me.
+
+As we can see, the PM still embrace changes. He just clearly presents what are the impact of changes to the deadline for the customer, so that they can make intelligent decision together.
+
+	
+  * Architectural design early in the project. We can debate about this idea vs. the YAGNI principle influenced by XP. My opinion is that you should get the big obvious thing right because cost of changes is likely grow rapidly for these monsters. Fundamental changes to the system are not so easy to fix: "Can you do it like what you did having the central hub, but make it decentralized and secured?" -- Good luck refactoring that! Might need another project just to make this kind of change. Early architectural decisions also help you identify the rigid parts from moving parts and help you contain those moving parts where chaos can safely happened.
+
+	
+  * OpenUP assumes that some magic hands are doing the infrastructure work for you (how nice!). Truth is not a lot of people would have that luxery of having the project folder, templates, build servers set up. Even if we have it, somebody need to contact those support guys anyway. The developer role are pretty free during inception phase and would be ideal to take this job.
+
+	
+  * Having roles give team members purposes. These tend to make meetings more effective as we consider different perspectives coming out from different roles (think six thinking hats...).
+**
+Customer:** Hey, what do you guys think if we need to track a record of each sales?
+**Analyst: **Is that only for the first time they pay or for all recurring payments as well? How do we track credit cards as well as purchase orders?
+****Architect: **We need to interface to those tracking vendors via web service. I'm afraid this might impact on the performance that we guarantee to have when doing the payment.
+PM**: We might not be able to get to the UI changes we planned for the last iteration.
+**Dev**: Might be a nightmare to refactor all those billing logics!
+
+

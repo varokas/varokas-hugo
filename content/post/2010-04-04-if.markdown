@@ -1,0 +1,22 @@
+---
+author: varokas
+comments: true
+date: 2010-04-04 03:36:07+00:00
+layout: post
+published: false
+slug: if
+title: ถ้าหาก
+wordpress_id: 116
+categories:
+- Software Engineering
+tags:
+- piano
+---
+
+ก่อนน้องเดฟจะไปเรียนต่อเอก SE เราก็ต้องใช้น้องเดฟให้คุ้มซะหน่อย ฮ่าๆ
+
+มีคนบอกว่่าเล่นเปียโนแล้วหน้าเอ๋อ คราวนี้ลองยิ้มให้กล้องแล้วนะ
+
+อันนี้ลองเร่งเสียงขึ้นมานิดนึงกว่าอันที่แปะไว้ในเฟสบุ๊ค แต่ยังไงเปียโนก็ยังเบาอยู่ดี -*- คราวหน้าคงต้องเอากล้องไปไว้ใกล้ๆ หน่อยละ
+
+[youtube=http://www.youtube.com/watch?v=ytzZeqdVKw8]

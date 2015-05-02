@@ -1,0 +1,238 @@
+---
+author: varokas
+comments: true
+date: 2010-03-13 05:14:33+00:00
+layout: post
+slug: lets-meet
+title: Let's Meet
+wordpress_id: 56
+categories:
+- Software Engineering
+---
+
+Meetings are one of the inevitable things that mere mortals try to avoid (save those of the business types, right? -- leave us to our codes and laptops). Truth is that to make meaningful software we need to collaborate. We cannot hope to roll out great software if developers do not talk to each other.
+
+That's why the beast called meeting was born to let developers have a place for focused conversation, solving problems and deliver good products. Wait -- Did I say "focused conversation"? When was the last time I can called my meeting **focused**? Many "meetings" I have been looks rather like groups of people on chairs in each corner trying to fill the room with voices. I believe the reason why we all hate meetings so much is that we just listen to people talk and walk off with no value to ourselves whatsoever.
+
+Back when I was studying about software engineering at CMU, can you guess what is the first thing they taught us about software development? Is that ground-breaking requirement engineering? Funky automatic verifications? Modelling of systems that can be proven deadlock free? ... How about a fundamental collaboration process let us establish and perform other processes effectively? That's right, ladies and gentleman, we are going to talk about effective meetings today. Not just your regular meeting, but an effective one. I secretly called a team that know how to meet a CMMI level 1.5 team (don't even think about level 2 if you have not master your meetings).
+
+I posted a generic meeting script here, both for you to use and for me to come back and lift off. Your needs may varies but all the key elements should be there.
+
+
+## Meeting Script
+
+
+
+
+### Roles
+
+
+
+
+
+	
+  * Facilitator-- Facilitate and set up meeting. Making sure everybody stays on topic
+
+	
+  * Scribe -- Taking meeting notes
+
+	
+  * Time Keeper -- Make sure each agenda item is on time
+
+	
+  * Participants
+
+
+
+
+### Process
+
+
+
+
+#### Before the meeting
+
+
+
+
+
+	
+  1. The facilitator created an agenda of the meeting 48 hours before the meeting and send it to all participants. This includes
+
+	
+    1. Goal
+
+	
+    2. Agenda with estimates for each item
+
+
+
+
+
+
+
+#### During the meeting
+
+
+
+
+
+	
+  1. The facilitator presents the agenda to everybody
+
+	
+  2. The facilitator opens each agenda topic from top to bottom
+
+	
+  3. The scribe take notes at the meeting about what is said, especially action items that are committed.
+
+	
+  4. Meeting keep keep track of time and warn facilitator when the time is almost up for each agenda item.
+
+	
+  5. At the end of the meeting, the scribe reviews collected action items
+
+
+
+
+#### After the meeting
+
+
+
+
+
+	
+  1. participants evaluated each meeting agenda and address action items
+
+	
+  2. Scribe sending out meeting minutes
+
+	
+  3. Facilitator collects evaluation results
+
+
+
+
+## Meeting Templates
+
+
+
+
+### Agenda
+
+
+<table >
+<tbody >
+<tr >
+
+<td style="padding-left:30px;" >**Date**
+</td>
+
+<td >Day-of-week, Month Day, Year at time
+</td>
+</tr>
+<tr >
+
+<td style="padding-left:30px;" >**Location**
+</td>
+
+<td >Building Room#
+</td>
+</tr>
+<tr >
+
+<td style="padding-left:30px;" >**Duration**
+</td>
+
+<td >X hour
+</td>
+</tr>
+<tr >
+
+<td style="padding-left:30px;" >**Goals**
+</td>
+
+<td >Described
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+	
+  * Item 1 ( 5 minutes )
+
+	
+  * Item 2 ( 15 minutes )
+
+	
+  * Item 3 ( 25 minutes )
+
+	
+  * Review action items (5 minutes)
+
+
+
+
+### Meeting Minutes
+
+
+
+
+#### Notes
+
+
+
+
+
+	
+  * (Any format you like, bullet points works fine)
+
+	
+  * (listen carefully to decisions and commitments)
+
+
+
+
+#### Action Items
+
+
+
+
+
+	
+  * (Say what it is and who is responsible for it)
+
+
+
+
+## **Hints and Tips**
+
+
+
+
+
+	
+  * Do not, ever, make your facilitator the time keeper -- The facilitator worries about content, the time keeper worries about time. The facilitator is very busy keeping people on topic already. We tried it, it does not work. Trust me.
+
+	
+  * Always have an agenda -- If you don't have one, or cannot think of one. It is a sign that either there's nothing to talk about, or you are not ready to talk about it. Better cancel the meeting to save everybody's time.
+
+	
+  * Have an agenda/notes template that we can quickly reuse
+
+	
+  * For weekly meetings, it is a very good idea to follow up on action items generated last week.
+
+	
+  * Keep review form simple. All you need is list out agenda items and have people said whether they satisfied with each of them
+
+	
+  * Evaluations is the key to improve the meeting. If an agenda item is marked not useful to anybody, consider removing it from an agenda.
+
+	
+  * It seems like Google shared a similar mindset of effective meeting! [[ref](http://www.businessweek.com/smallbiz/content/sep2006/sb20060927_259688.htm)]
+
+
+_The meeting script is adopted from the one I used in a practicum project with Aaron Fetterman and Geoffrey Giesel._
