@@ -14,7 +14,7 @@ tags:
 - noto
 ---
 
-[![Screen Shot 2014-07-25 at 6.13.41 PM](images/2014/07/Screen-Shot-2014-07-25-at-6.13.41-PM-1024x616.png)](images/2014/07/Screen-Shot-2014-07-25-at-6.13.41-PM.png)
+[![Screen Shot 2014-07-25 at 6.13.41 PM](/images/2014/07/Screen-Shot-2014-07-25-at-6.13.41-PM-1024x616.png)](/images/2014/07/Screen-Shot-2014-07-25-at-6.13.41-PM.png)
 
 Google ใจดีแจกของอีกแล้ว คราวนี้เป็นฟอนต์ที่ตามเพจเค้าบอกว่าทำให้ฟอนต์มันไปทางเดียวกันทั้งโลก "achieve visual harmonization across languages" ที่แปะไม่ใช่อะไร จะ bookmark ไว้วันหลังจะได้กลับมาโหลดได้
 <!-- more -->
