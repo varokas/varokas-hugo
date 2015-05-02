@@ -10,7 +10,7 @@ categories:
 - Software Engineering
 ---
 
-![Image](http://www.varokas.com/wp-content/uploads/2014/01/hierarchy_in_the_open_office_451995.jpg?w=308)
+![Image](images/2014/01/hierarchy_in_the_open_office_451995.jpg?w=308)
 
 (เครดิตรูป : toonpool.com, [bit.ly/LgHXSt](http://bit.ly/LgHXSt))
 

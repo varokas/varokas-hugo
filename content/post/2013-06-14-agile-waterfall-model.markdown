@@ -14,7 +14,7 @@ categories:
 
 ถ้าวาดเอาง่ายๆ ก็เป็นดังรูปข้างล่าง
 
-[![Untitled Diagram (3)](http://www.varokas.com/wp-content/uploads/2013/06/untitled-diagram-3.png?w=293)](http://www.varokas.com/wp-content/uploads/2013/06/untitled-diagram-3.png)
+[![Untitled Diagram (3)](images/2013/06/untitled-diagram-3.png?w=293)](images/2013/06/untitled-diagram-3.png)
 
 
 ### **ขั้นตอน**

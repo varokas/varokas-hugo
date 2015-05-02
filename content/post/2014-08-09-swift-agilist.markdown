@@ -15,7 +15,7 @@ categories:
 
 จริงๆ ไม่เคยอยากจะแตะอะไรเกี่ยวกับ iOS เลยตั้งแต่เห็น Objective-C แว๊บแรกแล้ว เพราะดูน่ากลัวมาก ไม่น่าเชื่อว่าไอ้ที่เราถูๆ ลื่นๆ บนไอโฟนมันจะถูกเขียนอยู่บนอะไรที่โบราณขนาดนี้ เข้าใจว่าหลายคนก็คงไม่อยากจะไปยุ่งกับมันหรอก แต่ทำไงได้มันไม่มีทางเลือก
 
-[![2a79d285a6f440d61b4bde229e0fe04e1ff1c9b7](http://www.varokas.com/wp-content/uploads/2014/08/2a79d285a6f440d61b4bde229e0fe04e1ff1c9b7-1024x588.png)](http://www.varokas.com/wp-content/uploads/2014/08/2a79d285a6f440d61b4bde229e0fe04e1ff1c9b7.png)
+[![2a79d285a6f440d61b4bde229e0fe04e1ff1c9b7](images/2014/08/2a79d285a6f440d61b4bde229e0fe04e1ff1c9b7-1024x588.png)](images/2014/08/2a79d285a6f440d61b4bde229e0fe04e1ff1c9b7.png)
 
 พอ Apple ประกาศ​ Swift แว๊บแรกนี่ดูดีมากเลย... พยายามจะไปโหลดทันที แต่..เสียตังค์ T_T
 
@@ -57,7 +57,7 @@ categories:
 
 อันนี้ไม่รู้ว่าก็อบมาจาก Scala หรือเปล่า แต่ชอบมากตรงที่ String Interpolation ก็โดนเช็คด้วย หมดปัญหาข้อความพังอีกต่อไป (ลาก่อน sprintf)
 
-[![Screen Shot 2014-07-15 at 5.19.47 PM](http://www.varokas.com/wp-content/uploads/2014/08/Screen-Shot-2014-07-15-at-5.19.47-PM.png)](http://www.varokas.com/wp-content/uploads/2014/08/Screen-Shot-2014-07-15-at-5.19.47-PM.png)
+[![Screen Shot 2014-07-15 at 5.19.47 PM](images/2014/08/Screen-Shot-2014-07-15-at-5.19.47-PM.png)](images/2014/08/Screen-Shot-2014-07-15-at-5.19.47-PM.png)
 
 
 
@@ -67,7 +67,7 @@ categories:
 
 เอาไปรูปเดียวแทนได้เป็นพันคำ
 
-[![Screen Shot 2014-07-16 at 11.53.11 AM](http://www.varokas.com/wp-content/uploads/2014/08/Screen-Shot-2014-07-16-at-11.53.11-AM.png)](http://www.varokas.com/wp-content/uploads/2014/08/Screen-Shot-2014-07-16-at-11.53.11-AM.png)
+[![Screen Shot 2014-07-16 at 11.53.11 AM](images/2014/08/Screen-Shot-2014-07-16-at-11.53.11-AM.png)](images/2014/08/Screen-Shot-2014-07-16-at-11.53.11-AM.png)
 
 ก็ยังอุตส่าห์เป็นไอเท็มในเมนูให้คลิ๊กแล้วผิดหวังอ่ะนะ อย่างน้อยขอ Extract Method ก็ยังดีนะครับ -*- เอาไว้จัดโค้ดง่ายๆ นี่ต้องมาก๊อบมือเองหมดเลย (ไม่ทำ TDD ไม่รู้หรอก)
 
@@ -92,7 +92,7 @@ protocol ScoreStateContext {
 }
 [/code]
 
-[![Screen Shot 2014-07-16 at 11.46.53 AM](http://www.varokas.com/wp-content/uploads/2014/08/Screen-Shot-2014-07-16-at-11.46.53-AM.png)](http://www.varokas.com/wp-content/uploads/2014/08/Screen-Shot-2014-07-16-at-11.46.53-AM.png)
+[![Screen Shot 2014-07-16 at 11.46.53 AM](images/2014/08/Screen-Shot-2014-07-16-at-11.46.53-AM.png)](images/2014/08/Screen-Shot-2014-07-16-at-11.46.53-AM.png)
 
 นี่ไม่ได้ตั้งใจแกล้งนะ กำลังลอง refactor มันเป็น state pattern ใช้งานจริงๆ
 

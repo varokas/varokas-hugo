@@ -10,7 +10,7 @@ categories:
 - Software Engineering
 ---
 
-[![OpenSpace01](http://www.varokas.com/wp-content/uploads/2014/04/openspace01.jpg)](http://www.varokas.com/wp-content/uploads/2014/04/openspace01.jpg)
+[![OpenSpace01](images/2014/04/openspace01.jpg)](images/2014/04/openspace01.jpg)
 
 ที่มารูป : http://newtechusa.net/agile/agile-and-open-space/
 
@@ -47,7 +47,7 @@ categories:
 ## 1. สองเท้าเดินเข้างาน ลงทะเบียน
 
 
-![964421_10151643736223588_1168943082_o](http://www.varokas.com/wp-content/uploads/2014/04/964421_10151643736223588_1168943082_o.jpg)
+![964421_10151643736223588_1168943082_o](images/2014/04/964421_10151643736223588_1168943082_o.jpg)
 
 เราซื้อตั๋วมางานแล้ว ตอนเช้าก็มาลงทะเบียน ตามปกติ แจกเสื้อ แจกขนม แจกรอยยิ้ม แต่ที่แน่ๆคือไม่แจก กำหนดการ (บอกแล้วว่าไม่มีล่วงหน้า) มีอย่างเดียวคือ จะเปิดงานเมื่อไหร่ ที่ไหน
 
@@ -57,7 +57,7 @@ categories:
 ## 2. มารวมตัวกันในวงกลม open space
 
 
-[![841225_10151490900163690_77351262_o](http://www.varokas.com/wp-content/uploads/2014/04/841225_10151490900163690_77351262_o.jpg)](http://www.varokas.com/wp-content/uploads/2014/04/841225_10151490900163690_77351262_o.jpg)
+[![841225_10151490900163690_77351262_o](images/2014/04/841225_10151490900163690_77351262_o.jpg)](images/2014/04/841225_10151490900163690_77351262_o.jpg)
 
 เสร็จแล้วทุกคนก็มานั่งที่เก้าอี้ที่เตรียมไว้เป็นวงกลมแบบนี้ นั่งคุยกับคนข้างๆ ไปก่อนจะมี ท่านประธานซักคนมาเปิดงานตามเวลา บอกกฎ กติกาง่ายๆ ของ open space
 
@@ -65,7 +65,7 @@ categories:
 ## 3. เขียนหัวข้อ แล้วมาประกาศให้ทุกคนฟัง
 
 
-[![IMG_20140206_092413](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_092413.jpg)](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_092413.jpg)
+[![IMG_20140206_092413](images/2014/04/img_20140206_092413.jpg)](images/2014/04/img_20140206_092413.jpg)
 
 แล้วท่านประธานถือไมค์อยู่กลางวงเนี่ย ก็จะเรียกให้ทุกคนที่สนใจจะพูด หรือ จะนำการพูดคุย  หรือ จะทำอะไรก็แล้วแต่ภายใน slot ขนาด 1 ชั่วโมง (เราเรียกว่าคนนี้ facilitator) คิดออกแล้วเขียนหัวข้อใส่กระดาษ A4 ตัวใหญ่ๆ แล้วก็เดินมาพูดที่ไมค์กลางห้อง บอกสั้นๆ ว่าจะทำอะไร ต่อแถวกันพูดทีละคน คนละไม่เกินนาทีนึง
 
@@ -75,17 +75,17 @@ categories:
 
 ทีม staff เราก็จะเตรียมกระดานโล่งๆ ตีเป็นเวลากับห้องเป็นช่องๆ ไว้ให้ facilitator อยากจัดหัวข้อตัวเอง เวลาไหน เอาไปแปะในช่องเองได้เลย
 
-[caption id="attachment_518" align="alignnone" width="584"][![ในรูปตรงเส้นตีลงมาจะเป็นเวลา (ดูที่หัวด้านบนได้) ส่วนห้องจะเป็นโพสอิท สีๆ ตามจำนวนห้องในเวลานั้นไว้ ](http://www.varokas.com/wp-content/uploads/2014/04/img_20140205_092721.jpg)](http://www.varokas.com/wp-content/uploads/2014/04/img_20140205_092721.jpg) ในรูปตรงเส้นตีลงมาจะเป็นเวลา (ดูที่หัวด้านบนได้) ส่วนห้องจะเป็นโพสอิท สีๆ ตามจำนวนห้องในเวลานั้นไว้ อยากให้ห้องสีอะไร ก็เอาโพสอิทมาแปะบน A4 ของตัวเอง[/caption]
+[caption id="attachment_518" align="alignnone" width="584"][![ในรูปตรงเส้นตีลงมาจะเป็นเวลา (ดูที่หัวด้านบนได้) ส่วนห้องจะเป็นโพสอิท สีๆ ตามจำนวนห้องในเวลานั้นไว้ ](images/2014/04/img_20140205_092721.jpg)](images/2014/04/img_20140205_092721.jpg) ในรูปตรงเส้นตีลงมาจะเป็นเวลา (ดูที่หัวด้านบนได้) ส่วนห้องจะเป็นโพสอิท สีๆ ตามจำนวนห้องในเวลานั้นไว้ อยากให้ห้องสีอะไร ก็เอาโพสอิทมาแปะบน A4 ของตัวเอง[/caption]
 
 
 ## 5. ดูตารางแล้วก็แยกย้ายกันไปเข้าตามที่สนใจ
 
 
-[caption id="attachment_524" align="alignnone" width="584"][![ช้อปปิ้งหัวข้อที่อยากไปกัน เป็นอะไรที่ลำบากใจมากกก อยากเข้าไปหมด](http://www.varokas.com/wp-content/uploads/2014/04/823552_10151490905033690_605459575_o.jpg)](http://www.varokas.com/wp-content/uploads/2014/04/823552_10151490905033690_605459575_o.jpg) ช้อปปิ้งหัวข้อที่อยากไปกัน เป็นอะไรที่ลำบากใจมากกก อยากเข้าไปหมด[/caption]
+[caption id="attachment_524" align="alignnone" width="584"][![ช้อปปิ้งหัวข้อที่อยากไปกัน เป็นอะไรที่ลำบากใจมากกก อยากเข้าไปหมด](images/2014/04/823552_10151490905033690_605459575_o.jpg)](images/2014/04/823552_10151490905033690_605459575_o.jpg) ช้อปปิ้งหัวข้อที่อยากไปกัน เป็นอะไรที่ลำบากใจมากกก อยากเข้าไปหมด[/caption]
 
 มันก็แค่นี้แหละ จริงๆ นะ ตอนนี้แหละเป็นตอนที่สนุกละ คนร่วมงานทั้งหมดก็จะมามุงๆ กันหาหัวข้อที่อยากไป ระหว่างนั้น facilitator ก็เดินไปดูที่ห้องของตัวเองก็จะเจอห้องแบบนี้
 
-[caption id="attachment_519" align="alignnone" width="584"][![IMG_20140206_075413](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_075413.jpg)](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_075413.jpg) มี flipchart ให้ มีเก้าอี้ให้ ล้อมวงกันคุยได้เลย[/caption]
+[caption id="attachment_519" align="alignnone" width="584"][![IMG_20140206_075413](images/2014/04/img_20140206_075413.jpg)](images/2014/04/img_20140206_075413.jpg) มี flipchart ให้ มีเก้าอี้ให้ ล้อมวงกันคุยได้เลย[/caption]
 
 
 ## 6. ดื่มด่ำกับบรรยากาศ Open Space !!
@@ -93,19 +93,19 @@ categories:
 
 กิจกรรมที่เกิดขึ้นใน open space จะเป็นกลุ่มเล็กๆ หลายๆ กลุ่ม ได้ใกล้ชิดกันมากขึ้นได้มีส่วนร่วมมากขึ้น มากกว่านั่งหลับเฉยๆ แบบที่งานประชุมอื่นไม่มีแน่ๆ เช่น
 
-[caption id="attachment_523" align="alignnone" width="584"][![IMG_20140206_160120](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_160120.jpg?w=584)](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_160120.jpg) facilitator นำพูดคุยกันเรื่องที่สนใจ ขีดๆ เขียนๆ ลงใน flipchart พูดคุบกันอย่างออกรส[/caption]
+[caption id="attachment_523" align="alignnone" width="584"][![IMG_20140206_160120](images/2014/04/img_20140206_160120.jpg?w=584)](images/2014/04/img_20140206_160120.jpg) facilitator นำพูดคุยกันเรื่องที่สนใจ ขีดๆ เขียนๆ ลงใน flipchart พูดคุบกันอย่างออกรส[/caption]
 
-[caption id="attachment_526" align="alignnone" width="584"][![facilitator ไม่จำเป็นต้องเป็นผู้รู้เรื่องนั้นก็ได้ ถ้าอยากรู้อะไรก็เปิดหัวข้อมา แล้วก็จะมีคนที่สนใจและผู้รู้มาร่วมคุยกัน ถ้าหัวข้อไหนฮิตๆ คนก็จะเข้ามาคึกคักมาก](http://www.varokas.com/wp-content/uploads/2014/04/img_20140205_150043.jpg)](http://www.varokas.com/wp-content/uploads/2014/04/img_20140205_150043.jpg) facilitator ไม่จำเป็นต้องเป็นผู้รู้เรื่องนั้นก็ได้ ถ้าอยากรู้อะไรก็เปิดหัวข้อมา แล้วก็จะมีคนที่สนใจและผู้รู้มาร่วมคุยกัน ถ้าหัวข้อไหนฮิตๆ คนก็จะเข้ามาคึกคักมาก[/caption]
+[caption id="attachment_526" align="alignnone" width="584"][![facilitator ไม่จำเป็นต้องเป็นผู้รู้เรื่องนั้นก็ได้ ถ้าอยากรู้อะไรก็เปิดหัวข้อมา แล้วก็จะมีคนที่สนใจและผู้รู้มาร่วมคุยกัน ถ้าหัวข้อไหนฮิตๆ คนก็จะเข้ามาคึกคักมาก](images/2014/04/img_20140205_150043.jpg)](images/2014/04/img_20140205_150043.jpg) facilitator ไม่จำเป็นต้องเป็นผู้รู้เรื่องนั้นก็ได้ ถ้าอยากรู้อะไรก็เปิดหัวข้อมา แล้วก็จะมีคนที่สนใจและผู้รู้มาร่วมคุยกัน ถ้าหัวข้อไหนฮิตๆ คนก็จะเข้ามาคึกคักมาก[/caption]
 
-[caption id="attachment_522" align="alignnone" width="584"][![IMG_20140206_144230](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_144230.jpg)](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_144230.jpg) อยากจะปิ้ง slide แบบปกติ ก็จะมีห้องที่มี projector ไว้ให้[/caption]
+[caption id="attachment_522" align="alignnone" width="584"][![IMG_20140206_144230](images/2014/04/img_20140206_144230.jpg)](images/2014/04/img_20140206_144230.jpg) อยากจะปิ้ง slide แบบปกติ ก็จะมีห้องที่มี projector ไว้ให้[/caption]
 
-[caption id="attachment_521" align="alignnone" width="584"][![IMG_20140206_134533](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_134533.jpg)](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_134533.jpg) ใช้สิ่งแวดล้อมให้เป็นประโยชน์ เอาฝาห้องมาสอนเรื่อง user story mapping กัน[/caption]
+[caption id="attachment_521" align="alignnone" width="584"][![IMG_20140206_134533](images/2014/04/img_20140206_134533.jpg)](images/2014/04/img_20140206_134533.jpg) ใช้สิ่งแวดล้อมให้เป็นประโยชน์ เอาฝาห้องมาสอนเรื่อง user story mapping กัน[/caption]
 
-[caption id="attachment_419" align="alignnone" width="584"][![นำคนทำ workshop ลองเขียน user story กันก็ได้](http://www.varokas.com/wp-content/uploads/2014/01/803861_10151493447118690_308377539_n.jpg)](http://www.varokas.com/wp-content/uploads/2014/01/803861_10151493447118690_308377539_n.jpg) นำคนทำ workshop ลองเขียน user story กันก็ได้[/caption]
+[caption id="attachment_419" align="alignnone" width="584"][![นำคนทำ workshop ลองเขียน user story กันก็ได้](images/2014/01/803861_10151493447118690_308377539_n.jpg)](images/2014/01/803861_10151493447118690_308377539_n.jpg) นำคนทำ workshop ลองเขียน user story กันก็ได้[/caption]
 
-[caption id="attachment_528" align="alignnone" width="584"][![นำเล่นเกม เสริมสร้างความเข้าใจเรื่องอไจล์ให้แข็งแกร่ง !!!](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_153810.jpg)](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_153810.jpg) นำเล่นเกม เสริมสร้างความเข้าใจเรื่องอไจล์ให้แข็งแกร่ง !!![/caption]
+[caption id="attachment_528" align="alignnone" width="584"][![นำเล่นเกม เสริมสร้างความเข้าใจเรื่องอไจล์ให้แข็งแกร่ง !!!](images/2014/04/img_20140206_153810.jpg)](images/2014/04/img_20140206_153810.jpg) นำเล่นเกม เสริมสร้างความเข้าใจเรื่องอไจล์ให้แข็งแกร่ง !!![/caption]
 
-[caption id="attachment_527" align="alignnone" width="584"][![TDD กับ pair programming อยากทำ ก็เปิดห้องมา ชวนคนที่อยากมาลอง มาแพร์กันสดๆ ในงาน (เสียดายไม่มีรูปบรรยากาศที่เหลือมาให้ดู)](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_203140.jpg)](http://www.varokas.com/wp-content/uploads/2014/04/img_20140206_203140.jpg) TDD กับ pair programming อยากทำ ก็เปิดห้องมา ชวนคนที่อยากมาลอง มาแพร์กันสดๆ ในงาน (เสียดายไม่มีรูปบรรยากาศด้านหลัง ที่มีคนนั่งแพร์กัน ลองทำโจทย์กัน มาให้ดู)[/caption]
+[caption id="attachment_527" align="alignnone" width="584"][![TDD กับ pair programming อยากทำ ก็เปิดห้องมา ชวนคนที่อยากมาลอง มาแพร์กันสดๆ ในงาน (เสียดายไม่มีรูปบรรยากาศที่เหลือมาให้ดู)](images/2014/04/img_20140206_203140.jpg)](images/2014/04/img_20140206_203140.jpg) TDD กับ pair programming อยากทำ ก็เปิดห้องมา ชวนคนที่อยากมาลอง มาแพร์กันสดๆ ในงาน (เสียดายไม่มีรูปบรรยากาศด้านหลัง ที่มีคนนั่งแพร์กัน ลองทำโจทย์กัน มาให้ดู)[/caption]
 
 เห็นไหมว่า มีอะไรสนุกๆ กว่านั่งฟังในห้องประชุมเฉยๆ ตั้งเยอะ !!
 

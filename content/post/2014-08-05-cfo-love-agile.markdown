@@ -14,7 +14,7 @@ tags:
 - finance
 ---
 
-[![cfo-final](http://www.varokas.com/wp-content/uploads/2014/08/cfo-final.jpg)](http://www.varokas.com/wp-content/uploads/2014/08/cfo-final.jpg)
+[![cfo-final](images/2014/08/cfo-final.jpg)](images/2014/08/cfo-final.jpg)
 
 อไจล์หลายทีมเริ่มมาจากกลุ่มของโปรแกรมเมอร์เอา practice ต่างๆ ของ Scrum, Kanban, XP มาลองทำแล้วก็พบว่า ส่งมอบของได้เรื่อยๆสม่ำเสมอ ลูกค้ามีความสุข แล้วทีมก็มีความสุข ทุกคนมีความสุข
 
@@ -48,13 +48,13 @@ tags:
 
 ปัญหาคือแล้วมีอะไรรับประกันว่า ตอนช่วงหลังๆมันจะทำงานได้ตามที่วางแผน เช่น ตอนนี้กำลังเก็บ requirement และ design อยู่ แล้วใช้เวลาเกินไปจากแผนในขั้นนี้ 10% จะคิดง่ายๆ ได้ไหมว่าทุกๆ phase ของการทำงาน (dev/test/deploy) ก็จะเกินมา 10% เหมือนกัน? หรือจะบอกว่าไม่เกินหรอก(แล้วค่อยไปเพิ่มเอาทีหลัง)​ จะทำแบบไหนดี? จะบอกให้คนอื่นเชื่อตามเราได้ยังไงว่าประเมินขั้นถัดไปถูกต้อง?
 
-[caption id="attachment_816" align="alignnone" width="982"][![ที่มา: http://www.virtualboss.net/screenshots/ganttchart.htm](http://www.varokas.com/wp-content/uploads/2014/08/ganttchart.gif)](http://www.varokas.com/wp-content/uploads/2014/08/ganttchart.gif) ที่มา: http://www.virtualboss.net/screenshots/ganttchart.htm[/caption]
+[caption id="attachment_816" align="alignnone" width="982"][![ที่มา: http://www.virtualboss.net/screenshots/ganttchart.htm](images/2014/08/ganttchart.gif)](images/2014/08/ganttchart.gif) ที่มา: http://www.virtualboss.net/screenshots/ganttchart.htm[/caption]
 
 เอาข้อมูลจากในอดีตไหม? ปกติเราใช้เวลาเกินไปเท่าไหร่? แล้วโปรเจคไหนเอามาเทียบได้? ความเสี่ยงเท่ากันไหม? คนทำกลุ่มเดียวกันหรือเปล่า? (มึนหรือยัง?)
 
 อไจล์ช่วยตรงจุดนี้ได้เพราะเราจงใจทำ software ทั้งกระบวนการจนกระทั่งเข็น feature มาใช้งานได้จนจบเลยในไม่กี่สัปดาห์ สมมติว่าเรามีของใน backlog ของงานอยู่ 100 หน่วย ทำเสร็จไปแล้ว 20 หน่วยในเดือนเดียว คิดเลขไม่ยากเลยใช่ไหม? ว่าอีก 4 เดือนก็น่าจะเสร็จอีก 80 หน่วยที่เหลือ (ยังไม่นับว่าของที่เสร็จแล้วอาจจะเอาไปใช้งานได้ประโยชน์ก่อนด้วยนะ)
 
-[![Screen Shot 2014-08-04 at 10.05.56 PM](http://www.varokas.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-04-at-10.05.56-PM.png)](http://www.varokas.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-04-at-10.05.56-PM.png)
+[![Screen Shot 2014-08-04 at 10.05.56 PM](images/2014/08/Screen-Shot-2014-08-04-at-10.05.56-PM.png)](images/2014/08/Screen-Shot-2014-08-04-at-10.05.56-PM.png)
 
 จุดสำคัญคือ มั่นใจในตัวเลขประมาณการได้มากกว่าเยอะ เอาข้อมูลจากในโปรเจคจริงๆ ที่ทำนั่นแหละ มาประมาณสิ่งที่จะเกิดต่อไปในอนาคต กิจกรรมทุกแบบของโปรเจคในอีก 80 หน่วยที่เหลือ เราทำหมดแล้วใน 20 หน่วยแรก ตั้งแต่เก็บข้อมูล ออกแบบ เขียน เทส จนเข็นออกมาลองใช้งานดู
 
@@ -62,7 +62,7 @@ tags:
 
 ของแถมคือทีมอไจล์(โดยเฉพาะสกรัม) ส่วนมากทำการประเมินตรงนี้เป็นประจำอยู่แล้วตอนผ่าน Release Burndown เดินไปถามได้ทันทีทุกเวลาที่ต้องการ
 
-[caption id="attachment_835" align="alignnone" width="500"][![รูปจาก http://www.mountaingoatsoftware.com/agile/scrum/release-burndown](http://www.varokas.com/wp-content/uploads/2014/08/releaseburndown.png)](http://www.varokas.com/wp-content/uploads/2014/08/releaseburndown.png) รูปจาก http://www.mountaingoatsoftware.com/agile/scrum/release-burndown[/caption]
+[caption id="attachment_835" align="alignnone" width="500"][![รูปจาก http://www.mountaingoatsoftware.com/agile/scrum/release-burndown](images/2014/08/releaseburndown.png)](images/2014/08/releaseburndown.png) รูปจาก http://www.mountaingoatsoftware.com/agile/scrum/release-burndown[/caption]
 
 
 
@@ -74,13 +74,13 @@ tags:
 
 ถ้าเป็น waterfall ก็ต้องมาเล็งว่า กี่เดือนจะเก็บ requirement เสร็จ แล้วจะได้เอาทีม Dev มาเสียบต่อ แล้วถ้าเค้าไม่เสร็จตามกำหนดล่ะ? จะต้องไปทำเรื่องคุยกับใครว่าต้องดึง BA มานานอีกหน่อย? ชะลองานของ Dev ออกไปไหม? (ช่วงนี้ก็เกิดอาการสูญญากาศ "ว่างงาน" ของทีม Dev ไป)
 
-[caption id="attachment_819" align="alignnone" width="625"][![Waterfall รักคนไม่เท่ากัน แล้วแต่อยู่ช่วงไหนของโปรเจค](http://www.varokas.com/wp-content/uploads/2014/08/illustration.png)](http://www.varokas.com/wp-content/uploads/2014/08/illustration.png) Waterfall รักคนไม่เท่ากัน แล้วแต่อยู่ช่วงไหนของโปรเจค[/caption]
+[caption id="attachment_819" align="alignnone" width="625"][![Waterfall รักคนไม่เท่ากัน แล้วแต่อยู่ช่วงไหนของโปรเจค](images/2014/08/illustration.png)](images/2014/08/illustration.png) Waterfall รักคนไม่เท่ากัน แล้วแต่อยู่ช่วงไหนของโปรเจค[/caption]
 
 โปรเจคอไจล์ถ้าบริหารอย่างถูกต้อง จะต้องมีการ "ใช้ทุก role ตลอดเวลา" เพราะกระบวนการทั้งหมดตั้งแต่ Requirement/Design/Code/Test/Deploy จะถูกหดลงมาสั้นๆ แค่สองอาทิตย์ หรือ น้อยกว่านั้น ถ้ามองรวมๆ ในแต่ละอาทิตย์ก็ดูเหมือนว่าต้องใช่ทุกส่วนอยู่ตลอดเวลา จะต้องใช้ใครจำนวนมากน้อยเท่าไหร่อันนี้แล้วแต่
 
 ประเด็นหลักคือ ใช้ทุกคนอย่างสม่ำเสมอ ไม่มีใคร "งานเข้า" ช่วงไหนเป็นพิเศษ
 
-[caption id="attachment_821" align="alignnone" width="795"][![อไจล์ทำเหมือนเดิมทุกรอบ ใช้คนเท่าๆ เดิมทุกรอบ](http://www.varokas.com/wp-content/uploads/2014/08/illustration2.png)](http://www.varokas.com/wp-content/uploads/2014/08/illustration2.png) อไจล์ทำเหมือนเดิมทุกรอบ ใช้คนเท่าๆ เดิมทุกรอบ[/caption]
+[caption id="attachment_821" align="alignnone" width="795"][![อไจล์ทำเหมือนเดิมทุกรอบ ใช้คนเท่าๆ เดิมทุกรอบ](images/2014/08/illustration2.png)](images/2014/08/illustration2.png) อไจล์ทำเหมือนเดิมทุกรอบ ใช้คนเท่าๆ เดิมทุกรอบ[/caption]
 
 ค่าใช้จ่ายในการดำเนินงาน (Operating Expenses - ไม่รวมค่าเครื่องมือ อุปกรณ์) ก็เป็นสัดส่วนคงที่ dev 4 คน QA 1 คน Product Owner 1 คน ไปเรื่อยๆ จนกว่าจะขี้เกียจทำโปรเจคนี้ต่อ
 
@@ -94,7 +94,7 @@ tags:
 
 ซึ่งคำตอบที่ถูกต้อง คือ ...​ ถ้าของมีประโยชน์ก็หาทางให้เริ่มใช้ได้เลยสิ จะหมักเอาไว้ทำไม?
 
-[![Screen Shot 2014-08-04 at 10.24.10 PM](http://www.varokas.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-04-at-10.24.10-PM.png)](http://www.varokas.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-04-at-10.24.10-PM.png)
+[![Screen Shot 2014-08-04 at 10.24.10 PM](images/2014/08/Screen-Shot-2014-08-04-at-10.24.10-PM.png)](images/2014/08/Screen-Shot-2014-08-04-at-10.24.10-PM.png)
 
 จากนั้นก็เอาข้อมูลจากการเข็นออกไปเริ่มใช้งานนั่นแหละมาดูว่า ตกลงมันทำกำไร ยอดขาย หรือได้ประโยชน์อื่นๆ จริงอย่างที่โม้ไว้หรือเปล่า? ถ้าใครเอาทฤษฎีจาก Lean Startup มาตั้งสมมติฐานแล้ววัดผลประกอบไปด้วยจะเยี่ยมมาก
 
@@ -102,7 +102,7 @@ tags:
 
 ไม่ต้องรออีกสองปีโปรเจคจบ ปล่อยของใหญ่ออกไปทีเดียว แล้วค่อยมาลุ้นกัน
 
-[caption id="attachment_839" align="alignnone" width="700"][![ในอไจล์จะมี revenue กลับมาบ้าง แทนที่จะเสียๆๆ ตอนแรกอย่างเดียว (รูปจาก http://tiny-giant-books.com/blog/agile-value-dark-horse-whats-your-backlog-pattern/)](http://www.varokas.com/wp-content/uploads/2014/08/Agile-Dark-Horse-Release-Value.jpg)](http://www.varokas.com/wp-content/uploads/2014/08/Agile-Dark-Horse-Release-Value.jpg) ในอไจล์จะมี revenue กลับมาบ้าง แทนที่จะเสียๆๆ ตอนแรกอย่างเดียว  
+[caption id="attachment_839" align="alignnone" width="700"][![ในอไจล์จะมี revenue กลับมาบ้าง แทนที่จะเสียๆๆ ตอนแรกอย่างเดียว (รูปจาก http://tiny-giant-books.com/blog/agile-value-dark-horse-whats-your-backlog-pattern/)](images/2014/08/Agile-Dark-Horse-Release-Value.jpg)](images/2014/08/Agile-Dark-Horse-Release-Value.jpg) ในอไจล์จะมี revenue กลับมาบ้าง แทนที่จะเสียๆๆ ตอนแรกอย่างเดียว  
 (รูปจาก http://tiny-giant-books.com/blog/agile-value-dark-horse-whats-your-backlog-pattern/)[/caption]
 
 ซึ่งการมีของออกมาให้จิ้มได้สัมผัสได้เร็วขึ้นก็จะมีผลดีคือ...
@@ -119,12 +119,12 @@ tags:
 
 อไจล์เน้นมากๆ ให้ทำและพิสูจน์ความเสี่ยงใหญ่ๆ ให้เห็นตั้งแต่แรกเลยว่าไปรอด(หรือไม่รอด) ผ่านทางการเอาความเสี่ยงพวกนั้นแหละมาเขียนให้อยู่ในรูปของ feature/user story ให้ได้แล้วเข็นออกมาให้ใช้ในรีลีสแรกๆ เดือนแรกๆ
 
-[caption id="attachment_823" align="alignnone" width="729"][![โปรเจคอไจล์ลดความเสี่ยงตั้งแต่เนิ่นๆ](http://www.varokas.com/wp-content/uploads/2014/08/ip.png)](http://www.varokas.com/wp-content/uploads/2014/08/ip.png)โปรเจคอไจล์ลดความเสี่ยงตั้งแต่เริ่ม  
+[caption id="attachment_823" align="alignnone" width="729"][![โปรเจคอไจล์ลดความเสี่ยงตั้งแต่เนิ่นๆ](images/2014/08/ip.png)](images/2014/08/ip.png)โปรเจคอไจล์ลดความเสี่ยงตั้งแต่เริ่ม  
 (รูปจาก: http://dandriani.wordpress.com/category/lifecycle-processes/)[/caption]
 
 ต่างจากแบบ Waterfall ที่เราอาจจะมีระบบการบริหารจัดการความเสี่ยงของโปรเจคยังไงก็ได้ ไม่รู้เหมือนกัน (ก็แล้วแต่บริษัทจะระบบดีหรือไม่ดียังไง) ถ้าไม่คอยลงไปดูส่วนมากทีมก็มักจะทำ "ของง่ายๆ" ก่อนเพราะมันง่ายดี และทำให้เห็นผลงานออกมาเหมือนว่าจะราบรื่น แล้วก็เอาของยากๆ น่ากลัวๆ ไปหมกๆ ไว้ตอนหลัง
 
-[caption id="attachment_824" align="alignnone" width="703"][![Waterfall ความเสี่ยงอาจจะโดนโยนกองไว้ระเบิดตอนท้ายๆ](http://www.varokas.com/wp-content/uploads/2014/08/wfp1.png)](http://www.varokas.com/wp-content/uploads/2014/08/wfp1.png) Waterfall ความเสี่ยงอาจจะโดนโยนกองไว้ระเบิดตอนท้ายๆ  
+[caption id="attachment_824" align="alignnone" width="703"][![Waterfall ความเสี่ยงอาจจะโดนโยนกองไว้ระเบิดตอนท้ายๆ](images/2014/08/wfp1.png)](images/2014/08/wfp1.png) Waterfall ความเสี่ยงอาจจะโดนโยนกองไว้ระเบิดตอนท้ายๆ  
 (รูปจาก: http://dandriani.wordpress.com/category/lifecycle-processes/)[/caption]
 
 การทำออกมาให้มันรู้ๆไปเลยตั้งแต่แรก ว่าอะไรเป็นอะไร เปลี่ยนจากของที่เคยเป็น "ความเสี่ยง" ให้กลายมาเป็น "ปัญหา" หรือ "ไม่ใช่ปัญหา" ให้เร็วที่สุดจะได้เห็นกันตั้งแต่เนิ่นๆ ไม่ต้องพยายามมาหมักไว้นานๆ แล้วระเบิดตูมทีเดียวอีกสองปีข้างหน้า
@@ -143,7 +143,7 @@ tags:
 
 กลับกันมันอาจจะติดตลาดกว่าที่เราคิดก็ได้ ของอยู่ๆ จะเป็น viral มักจะไม่มีสัญญาณเตือนเราด้วย วันนึงยอดคนใช้ก็พุ่งปรี๊ดขึ้นมา ฮิตติดตลาดไลค์เป็นแสน ทวีตเป็นล้าน ถึงวันนั้น เราอยากจะโยกคนมาโปรเจคนี้มากขึ้นไหม? เราอยากทุ่มพลังเพื่อสร้างกำไรมากขึ้นหรือเปล่า?
 
-[caption id="attachment_842" align="alignnone" width="400"][![Data Driven or Luck Driven? (รูปจาก: http://www.askingsmarterquestions.com/data-driven-marketing-steps-for-seo-keyword-analysis/)](http://www.varokas.com/wp-content/uploads/2014/08/SEO_keyword_analysis_list.jpg)](http://www.varokas.com/wp-content/uploads/2014/08/SEO_keyword_analysis_list.jpg) Data Driven or Luck Driven?  
+[caption id="attachment_842" align="alignnone" width="400"][![Data Driven or Luck Driven? (รูปจาก: http://www.askingsmarterquestions.com/data-driven-marketing-steps-for-seo-keyword-analysis/)](images/2014/08/SEO_keyword_analysis_list.jpg)](images/2014/08/SEO_keyword_analysis_list.jpg) Data Driven or Luck Driven?  
 (รูปจาก: http://www.askingsmarterquestions.com/data-driven-marketing-steps-for-seo-keyword-analysis/)[/caption]
 
 คำถามเหล่านี้คงไม่สามารถตอบกันได้ง่ายๆ ซึ่งอไจล์ไม่ได้ช่วยให้ปัญหาสองอย่างนี้หมดไป

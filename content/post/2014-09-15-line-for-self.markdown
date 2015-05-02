@@ -13,7 +13,7 @@ tags:
 - self
 ---
 
-[caption id="attachment_952" align="alignnone" width="420"]![รูปจาก: http://management4volunteers.files.wordpress.com](http://www.varokas.com/wp-content/uploads/2014/09/line-in-the-sand1.jpg) รูปจาก: http://management4volunteers.files.wordpress.com[/caption]
+[caption id="attachment_952" align="alignnone" width="420"]![รูปจาก: http://management4volunteers.files.wordpress.com](images/2014/09/line-in-the-sand1.jpg) รูปจาก: http://management4volunteers.files.wordpress.com[/caption]
 
 หลังจากสังเกตมานานแล้วว่าอะไรคือข้อจำกัดของคนแต่ละคน ซึ่งสุดท้ายก็จบลงที่ข้อจำกัดที่ทุกคนกำหนดเอาไว้ให้กับตนเองเท่านั้น
 

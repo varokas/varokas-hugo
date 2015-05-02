@@ -10,7 +10,7 @@ categories:
 - Software Engineering
 ---
 
-[![ku-xlarge](http://www.varokas.com/wp-content/uploads/2014/01/ku-xlarge1.jpg)](http://www.varokas.com/wp-content/uploads/2014/01/ku-xlarge1.jpg)
+[![ku-xlarge](images/2014/01/ku-xlarge1.jpg)](images/2014/01/ku-xlarge1.jpg)
 (ที่มารูป: http://io9.com/5758541/no-one-can-escape-friction-not-even-in-a-vacuum)
 
 

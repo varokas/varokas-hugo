@@ -10,7 +10,7 @@ categories:
 - Investment
 ---
 
-[![goose](http://www.varokas.com/wp-content/uploads/2014/07/goose.jpg)](http://www.varokas.com/wp-content/uploads/2014/07/goose.jpg)
+[![goose](images/2014/07/goose.jpg)](images/2014/07/goose.jpg)
 
 ใครมาถึงโพสนี้เลยกลับไปอ่านสองอันแรกก่อน อันนี้จะต่อยอดมาจาก discounted value นะ
 <!-- more -->

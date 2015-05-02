@@ -10,7 +10,7 @@ categories:
 - Software Engineering
 ---
 
-![junit-logo](http://www.varokas.com/wp-content/uploads/2014/08/junit-logo.png)
+![junit-logo](images/2014/08/junit-logo.png)
 
 It bugs me that a good number of Java developers still use these two assert methods when dealing with JUnit.
 
