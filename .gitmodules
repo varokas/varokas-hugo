@@ -1,6 +1,3 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:varokas/varokas.github.io.git
-[submodule "h"]
-	path = h
-	url = git@github.com:varokas/hyde-x.git
