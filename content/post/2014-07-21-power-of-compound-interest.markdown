@@ -10,7 +10,7 @@ categories:
 - Investment
 ---
 
-[caption id="" align="alignnone" width="400"]![](http://www.bellanaija.com/wp-content/uploads/2012/06/Fundraising.jpg) ที่มารูป: http://www.bellanaija.com/2012/06/22/on-becoming-a-man-the-fundraisers-diary-part-ii/picking-from-the-money-tree/[/caption]
+[caption id="" align="alignnone" width="400"]![](http://www.bellanaija.com/wp-content/uploads/2012/06/Fundraising.jpg) ที่มารูป: http://www.bellanaija.com/2012/06/22/on-becoming-a-man-the-fundraisers-diary-part-ii/picking-from-the-money-tree/
 
 ทุกคนที่เริ่มลงทุน บทเรียนแรกคือการเข้าใจก่อนว่า ถ้าอยากจะเก็บเงินใช้ ต้องมีการบริหารจัดการให้มันได้ผลตอบแทนงอกขึ้นมาด้วย
 <!--more-->

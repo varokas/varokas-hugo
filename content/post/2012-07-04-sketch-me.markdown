@@ -31,34 +31,34 @@ Slide ดูได้ [[ที่นี่](https://docs.google.com/a/panusuwan.
 
 
 
-	
+
   1. ให้คำบรรยายเริ่มต้นเป็น 4 ข้อสั้นๆ สำหรับตัวอย่างที่เล่นมีคำบรรยายดังนี้
 
-	
+
     1. หน้าแป้นๆ
 
-	
+
     2. มีขาสี่ขา
 
-	
+
     3. หางแบนๆ
 
-	
+
     4. ที่หูมีขนเยอะๆ
 
 
 
 
-	
+
   2. ให้เวลานาน 5 นาที ให้ทุกคน ซักถามได้ทุกอย่าง ให้ละเอียดที่สุด เอาให้แน่ใจว่าครอบคลุมทุกแง่มุมของสิ่งที่ตัวเองกำลังจะวาด เวลาที่ผมตอบคำถามแต่ละข้อ ก็จะเพิ่มเข้าไปในคำบรรยายเดิมให้ทุกคนได้เห็นเหมือนกัน (จากที่เล่นกันจากคำบรรยาย 4 ข้อ ก็เพิ่มเป็นประมาณ 20 ข้อ ตามข้อซักถาม)
 
-	
+
   3. เสร็จแล้วก็ให้ลงมือวาด 3 นาที ตามคำบรรยายทั้ง 20 ข้อที่อยู่บนจอ
 
 
 จากนั้นก็ถึงเวลามาเฉลยครับว่าคือตัวนี้
 
-[caption id="" align="alignnone" width="250"][![Axolotl](http://www.axolotl.org/images/animals/axolotl.jpg)](http://www.axolotl.org) ที่มา http://www.axolotl.org[/caption]
+[![Axolotl](http://www.axolotl.org/images/animals/axolotl.jpg)](http://www.axolotl.org) ที่มา http://www.axolotl.org
 
 แล้วก็มาตรวจดูสิ่งที่ทุกคนวาด ก็มีบางคนใกล้เคียงบ้าง แต่ดูดีๆ ก็จะเห็นว่ามีอะไรหลายๆ อย่างขาดไป เช่น ไม่มีใครวาดนิ้วเลย ไม่ได้วาดแขนเป็นสองท่อน หูก็ไม่เหมือน ปากก็ไม่เหมือน หางนี่ไม่ได้ใกล้เคียงเลย
 
@@ -72,16 +72,16 @@ Slide ดูได้ [[ที่นี่](https://docs.google.com/a/panusuwan.
 
 
 
-	
+
   1. ปีกเหมือนผีเสื้อ
 
-	
+
   2. ตัวสีดำลีบๆ
 
-	
+
   3. มีหกขา
 
-	
+
   4. มีหนวดโค้งๆ
 
 
@@ -91,7 +91,7 @@ Slide ดูได้ [[ที่นี่](https://docs.google.com/a/panusuwan.
 
 หลังจากรอบนี้แล้ว ผมก็ได้รูปที่ผมพอใจแล้ว ก็จบรอบนี้เพียงเท่านี้ ใช้เวลาวาด รวมถึงแก้ และให้คำแนะนำแล้ว ใช้ไปไม่ถึง 5 นาทีเลย
 
-[caption id="" align="alignnone" width="275"]![Hawk Wasp](http://cdn.ghosttheory.com/wp-content/uploads/2008/12/tarantulahawk.jpg) credit: bugman123[/caption]
+[caption id="" align="alignnone" width="275"]![Hawk Wasp](http://cdn.ghosttheory.com/wp-content/uploads/2008/12/tarantulahawk.jpg) credit: bugman123
 
 
 ### Round 1 Conclusion: The way we usually work?
