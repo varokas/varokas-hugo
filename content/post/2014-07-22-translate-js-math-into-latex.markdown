@@ -11,7 +11,7 @@ categories:
 ---
 
 While working on [Pastemath](http://pastemath.varokas.com), I stumbled upon the [math.js](http://mathjs.org/) library. 
-<!-- more -->
+<!--more-->
 
 Not only that we can use it to evaluate your math, changing simple js math into Latex is of the more useful feature. Especially when no one actually remembers the whole LaTex syntax after college.
 
