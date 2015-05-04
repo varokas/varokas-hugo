@@ -1,11 +1,11 @@
 theme = "hyde-x"
 baseurl = "http://varokas.github.io"
 languageCode = "en-us"
-title = "varokas"
+title = "VP"
 disqusShortname = "varokas"
 
 [author]
-  name = "VP"
+  name = "VP - Minimal Engineering"
 
 [params]
   #theme = "theme-base-0d"
