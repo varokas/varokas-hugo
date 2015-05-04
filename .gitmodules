@@ -1,7 +1,3 @@
 [submodule "public"]
 	path = public
-  url = git@github.com:varokas/varokas.github.io.git
-
-[submodule "hyde-x"]
-  path = themes/hyde-x
-  url = git@github.com:varokas/hyde-x.git
+	url = git@github.com:varokas/varokas.github.io.git
