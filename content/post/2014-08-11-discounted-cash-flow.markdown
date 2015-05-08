@@ -70,15 +70,17 @@ categories:
 
 <table >
 
+<thead>
 <tr >
-  ปีที่
-  ปันผล
-  คำนวณ
-  present value
+<th>  ปีที่</th>
+<th>  ปันผล</th>
+<th>  คำนวณ</th>
+<th>  present value</th>
 </tr>
+</thead>
 
-<tbody >
-<tr >
+<tbody style="text-align: center">
+<tr>
 
 <td >1
 </td>
@@ -86,7 +88,7 @@ categories:
 <td >100
 </td>
 
-<td >$latex \frac{100}{\left({{1}+{0.04}}\right)^{1}}&s;=2$
+<td >$$ \frac{100}{\left({{1}+{0.04}}\right)^{1}} $$
 </td>
 
 <td >96
@@ -100,7 +102,7 @@ categories:
 <td >100
 </td>
 
-<td >$latex \frac{100}{\left({{1}+{0.04}}\right)^{2}}&s;=2$
+<td >$$ \frac{100}{\left({{1}+{0.04}}\right)^{2}}$$
 </td>
 
 <td >92
@@ -114,7 +116,7 @@ categories:
 <td >100
 </td>
 
-<td >$latex \frac{100}{\left({{1}+{0.04}}\right)^{3}}&s;=2$
+<td >$$ \frac{100}{\left({{1}+{0.04}}\right)^{3}}$$
 </td>
 
 <td >89
@@ -128,7 +130,7 @@ categories:
 <td >100
 </td>
 
-<td >$latex \frac{100}{\left({{1}+{0.04}}\right)^{4}}&s;=2$
+<td >$$ \frac{100}{\left({{1}+{0.04}}\right)^{4}}$$
 </td>
 
 <td >85
@@ -142,7 +144,7 @@ categories:
 <td >100
 </td>
 
-<td >$latex \frac{100}{\left({{1}+{0.04}}\right)^{5}}&s;=2$
+<td >$$ \frac{100}{\left({{1}+{0.04}}\right)^{5}}$$
 </td>
 
 <td >82
