@@ -14,7 +14,7 @@ categories:
 ใครดูแล้วติดใจอยากเอาไปเล่นก็ได้เต็มที่เลยครับ ให้เครดิตและก็ลิงค์กลับมาที่ [www.varokas.com](http://www.varokas.com) ด้วยนะครับ
 
 เนื่องด้วยข้อผิดพลาดทางเทคนิคทำให้วิดีโอไม่มีสรุปตอนท้าย ไม่เป็นไรเดี๋ยวผมจะสรุปให้ฟังในบล็อกนี้แหละ
-[youtube:http://www.youtube.com/watch?v=K0xJ8vqafno]
+{{< youtube K0xJ8vqafno >}}
 Slide ดูได้ [[ที่นี่](https://docs.google.com/a/panusuwan.com/presentation/d/1uxs3P7XvkmZb1f7SQxTZ4U3lg2ItB-9_aZjVS3kVYTM)]
 
 
@@ -90,7 +90,7 @@ Slide ดูได้ [[ที่นี่](https://docs.google.com/a/panusuwan.
 
 หลังจากรอบนี้แล้ว ผมก็ได้รูปที่ผมพอใจแล้ว ก็จบรอบนี้เพียงเท่านี้ ใช้เวลาวาด รวมถึงแก้ และให้คำแนะนำแล้ว ใช้ไปไม่ถึง 5 นาทีเลย
 
-[caption id="" align="alignnone" width="275"]![Hawk Wasp](http://cdn.ghosttheory.com/wp-content/uploads/2008/12/tarantulahawk.jpg) credit: bugman123
+![Hawk Wasp](http://cdn.ghosttheory.com/wp-content/uploads/2008/12/tarantulahawk.jpg) credit: bugman123
 
 
 ### Round 1 Conclusion: The way we usually work?

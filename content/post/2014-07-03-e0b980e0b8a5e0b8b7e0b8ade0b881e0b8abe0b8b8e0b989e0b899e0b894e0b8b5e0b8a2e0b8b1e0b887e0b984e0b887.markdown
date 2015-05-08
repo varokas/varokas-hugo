@@ -2,7 +2,7 @@
 author: varokas
 comments: true
 date: 2014-07-03 03:07:44+00:00
-slug: '%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%ab%e0%b8%b8%e0%b9%89%e0%b8%99%e0%b8%94%e0%b8%b5%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87'
+slug: 'stock-choosing'
 title: เลือกหุ้นดียังไง
 wordpress_id: 668
 categories:
@@ -12,7 +12,7 @@ categories:
 คนไหนกำลังลงทุนแบบ Value อยู่ แนะนำให้ดู 19 คลิปนี้ใน playlist นี้นะครับ อธิบายไว้ค่อนข้างดีมากเลย แต่อาจจะมีมุกไม่เกี่ยวเยอะหน่อย ใครไม่อยากซื้อหุ้น ดูแล้วอาจจะอยากซื้อขึ้นมาก็ได้ ผมยังดูไม่จบ แต่อยากจะ Blog ข้อมูลสำคัญไว้ก่อน เผื่อกลับมาอ่านได้ 
  <!--more-->
 
-https://www.youtube.com/watch?v=OOu47G3bqms&list=PLXylIzHOm7Yostmj6302AAuQ9kdogYrIM
+{{< youtube "videoseries?list=PLXylIzHOm7Yostmj6302AAuQ9kdogYrIM" >}} 
 
 
 

@@ -20,7 +20,7 @@ Dear Software Industry,
 
 I would like to ask for your precious productive time to watch these video with me. This is a documentary about a design firm, [IDEO](http://www.ideo.com/), who were challenged to reinvent a shopping cart in 5 days. The video is split in 3 parts. For each one, I will mark point of interests for you.
 
-[youtube=http://www.youtube.com/watch?v=oUazVjvsMHs]
+{{< youtube oUazVjvsMHs >}}
 
 
 
@@ -34,7 +34,7 @@ I would like to ask for your precious productive time to watch these video with 
   * [5:07] "We are expert on the process of design". "Innovate by applying our _process_ to it".
 
 
-[youtube=http://www.youtube.com/watch?v=_civr9fr4iw]
+{{< youtube _civr9fr4iw >}}
 
 	
   * [0:30] I can see some form of requirements elicitation here, one that I could compare to [Contextual design](http://en.wikipedia.org/wiki/Contextual_design)
@@ -49,7 +49,7 @@ I would like to ask for your precious productive time to watch these video with 
   * [5:20] Define need areas split the team to create prototypes of each one. The project manager helps setting goals for the team.
 
 
-[youtube=http://www.youtube.com/watch?v=zddv5Bv7da8]
+{{< youtube zddv5Bv7da8 >}}
 
 	
   * [1:45] Review and Demo session

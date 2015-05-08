@@ -11,7 +11,7 @@ categories:
 
 ในงาน Agile Thailand 2012 ผมได้ไปนำเสนอหลักการสำคัญที่สุดของอไจล์ในความคิดของผม ผ่านทางเกมสองเกม วันนี้เรามาเริ่มกันที่เกมแรกก่อน ดูตอนเริ่มจนถึงประมาน 23:30
 
-[youtube=http://www.youtube.com/watch?v=5R_DntLIfm4]
+{{< youtube 5R_DntLIfm4 >}}
 Slide ดูที่นี่: [https://docs.google.com/a/panusuwan.com/presentation/d/1attb-82DRsRFU8mV1byd6KSGCNp72RlQvNsu1eVSyFw/edit](https://docs.google.com/a/panusuwan.com/presentation/d/1attb-82DRsRFU8mV1byd6KSGCNp72RlQvNsu1eVSyFw/edit)
 
 
