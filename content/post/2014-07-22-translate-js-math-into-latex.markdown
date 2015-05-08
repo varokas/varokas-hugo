@@ -16,4 +16,4 @@ Not only that we can use it to evaluate your math, changing simple js math into 
 
 This would really be useful when blogging about investing and stuff.
 
-[iframe width="100%" height="300" src="http://jsfiddle.net/varokas/x5XuS/1/embedded/result,html,js"]
+{{< iframe height="350" src="http://jsfiddle.net/varokas/x5XuS/1/embedded/result,html,js" >}}

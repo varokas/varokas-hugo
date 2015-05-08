@@ -56,7 +56,7 @@ categories:
 
 ลองกดเล่นเปลี่ยนค่าดูในกล่องข้างล่างได้ (คลิ๊กที่ตัวเลขแล้วเล่นดู)
 
-[iframe width="100%" height="350" src="http://pastemath.varokas.com/?t=Compound+Interest&e;=FV+%3D+P*(1+%2B+r)%5En&p;=P%2C900%2Cinitial+amount%0Ar%2C0.03%2Cannual+interest+rate%0An%2C10%2Cnumber+of+years&r;=FV%2Cfuture+value"]
+{{< iframe height="400" src="http://pastemath.varokas.com/?t=Compound+Interest&e=FV+%3D+P*(1+%2B+r)%5En&p=P%2C900%2Cinitial+amount%0Ar%2C0.03%2Cannual+interest+rate%0An%2C10%2Cnumber+of+years&r=FV%2Cfuture+value" >}}
 
 
 
@@ -70,7 +70,7 @@ categories:
 
 คิดแบบนี้ก็จะพบว่ามีแบบที่หนึ่งมี "มูลค่าในปัจจุบัน" น้อยกว่าแบบที่สอง
 
-[iframe width="100%" height="400" src="http://pastemath.varokas.com/?t=Discounted+Value&e;=DV+%3D+FV%2F(1+%2B+r)%5En&p;=FV%2C1000%2Cfuture+value%0Ar%2C0.03%2Cannual+interest+rate%0An%2C10%2Cnumber+of+years&r;=DV%2Cdiscounted+value"]
+{{< iframe width="100%" height="450" src="http://pastemath.varokas.com/?t=Discounted+Value&e=DV+%3D+FV%2F(1+%2B+r)%5En&p=FV%2C1000%2Cfuture+value%0Ar%2C0.03%2Cannual+interest+rate%0An%2C10%2Cnumber+of+years&r=DV%2Cdiscounted+value" >}}
 
 
 

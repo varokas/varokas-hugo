@@ -21,4 +21,4 @@ categories:
 
 ลองไปกดๆ แก้ๆ ตามสูตรข้างล่างเล่นดูได้ คำนวณดูว่าเงินของเราจะเป็นยังไงในอีกสิบยี่สิบปีข้างหน้า
 
-[iframe src="http://pastemath.varokas.com/?t=Compound+Interest&e=FV+%3D+P%2A%281+%2B+r%29%5En&p=P%2C1000%2Cinitial+amount%0Ar%2C0.04%2Cannual+interest+rate%0An%2C20%2Cnumber+of+years&r=FV%2Cfuture+value"]
+{{< iframe height="400" src="http://pastemath.varokas.com/?t=Compound+Interest&e=FV+%3D+P%2A%281+%2B+r%29%5En&p=P%2C1000%2Cinitial+amount%0Ar%2C0.04%2Cannual+interest+rate%0An%2C20%2Cnumber+of+years&r=FV%2Cfuture+value" >}}
