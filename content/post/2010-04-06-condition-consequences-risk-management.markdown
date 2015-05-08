@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2010-04-06 03:59:30+00:00
-layout: post
 slug: condition-consequences-risk-management
 title: Condition-Consequence Risk Statements
 wordpress_id: 127

@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2013-07-23 07:16:36+00:00
-layout: post
 slug: agile-secret-if-it-is-painful-do-it-more-often
 title: 'Agile Secret: If it is painful, do it more often'
 wordpress_id: 164

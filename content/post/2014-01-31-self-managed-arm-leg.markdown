@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-01-31 06:34:24+00:00
-layout: post
 slug: self-managed-arm-leg
 title: จะหวังให้แขนกับขา self-managed ได้อย่างไร?
 wordpress_id: 465

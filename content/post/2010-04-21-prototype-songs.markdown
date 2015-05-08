@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2010-04-21 02:33:56+00:00
-layout: post
 published: false
 slug: prototype-songs
 title: Prototype Songs - Release 1

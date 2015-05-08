@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2010-04-16 03:36:42+00:00
-layout: post
 slug: software-engineering-much-more-tha-process
 title: Software Engineering >> Processes
 wordpress_id: 141

@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-04-30 07:23:32+00:00
-layout: post
 slug: what-to-do-in-open-space
 title: มางาน Open Space แบบ ATH2014 ต้องทำตัวยังไงบ้าง?
 wordpress_id: 498

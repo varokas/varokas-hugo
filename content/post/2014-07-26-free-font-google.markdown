@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-07-26 01:34:10+00:00
-layout: post
 slug: free-font-google
 title: ฟอนต์นานาชาติฟรีจาก Google
 wordpress_id: 745

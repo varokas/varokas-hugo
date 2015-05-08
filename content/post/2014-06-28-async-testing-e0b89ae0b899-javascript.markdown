@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-06-28 22:43:23+00:00
-layout: post
 slug: async-testing-%e0%b8%9a%e0%b8%99-javascript
 title: Async Testing บน JavaScript
 wordpress_id: 640

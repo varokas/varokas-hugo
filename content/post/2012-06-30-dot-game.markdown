@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2012-06-30 06:06:43+00:00
-layout: post
 slug: dot-game
 title: Dot Game
 wordpress_id: 192

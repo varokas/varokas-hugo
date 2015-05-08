@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-01-20 08:14:22+00:00
-layout: post
 slug: agile-thailand-2014-proposal-format
 title: 'Agile Thailand 2014 ในความฝัน (ตอนที่ 1: รูปแบบงาน)'
 wordpress_id: 300

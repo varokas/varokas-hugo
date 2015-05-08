@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2010-03-22 01:36:30+00:00
-layout: post
 slug: openup
 title: OpenUP
 wordpress_id: 89

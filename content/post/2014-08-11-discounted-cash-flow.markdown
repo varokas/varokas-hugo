@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-08-11 02:18:56+00:00
-layout: post
 slug: discounted-cash-flow
 title: 'พื้นฐานวิเคราะห์ราคาหุ้น : ห่านทองคำกับ Discounted Cash Flow'
 wordpress_id: 782

@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-08-09 04:11:31+00:00
-layout: post
 slug: swift-agilist
 title: ระบายอารมณ์เรื่อง Swift ในมุมมองของ Agilist
 wordpress_id: 795

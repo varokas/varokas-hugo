@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2010-03-23 03:09:25+00:00
-layout: post
 published: false
 slug: somebody-down-here
 title: คนข้างล่าง

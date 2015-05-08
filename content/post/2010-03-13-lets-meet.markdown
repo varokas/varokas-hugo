@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2010-03-13 05:14:33+00:00
-layout: post
 slug: lets-meet
 title: Let's Meet
 wordpress_id: 56

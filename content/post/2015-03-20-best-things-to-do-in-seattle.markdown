@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2015-03-20 04:49:50+00:00
-layout: post
 slug: best-things-to-do-in-seattle
 title: Best Things to do in Seattle
 wordpress_id: 965

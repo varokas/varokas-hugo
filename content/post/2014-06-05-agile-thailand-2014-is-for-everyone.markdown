@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-06-05 06:45:28+00:00
-layout: post
 slug: agile-thailand-2014-is-for-everyone
 title: Agile Thailand 2014 เป็นของทุกคน
 wordpress_id: 536

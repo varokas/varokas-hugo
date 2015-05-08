@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2010-06-16 01:46:52+00:00
-layout: post
 slug: agile-life-interruptions
 title: An Agile approach to Life Interruptions
 wordpress_id: 161

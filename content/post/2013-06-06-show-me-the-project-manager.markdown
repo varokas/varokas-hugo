@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2013-06-06 06:50:59+00:00
-layout: post
 slug: show-me-the-project-manager
 title: Show me the Project Manager
 wordpress_id: 260

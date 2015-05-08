@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2013-05-21 04:40:55+00:00
-layout: post
 slug: there-is-no-agile
 title: Agile ไม่มีอยู่จริง
 wordpress_id: 257

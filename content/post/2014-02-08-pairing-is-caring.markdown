@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-02-08 10:29:20+00:00
-layout: post
 slug: pairing-is-caring
 title: Pairing is Caring
 wordpress_id: 281

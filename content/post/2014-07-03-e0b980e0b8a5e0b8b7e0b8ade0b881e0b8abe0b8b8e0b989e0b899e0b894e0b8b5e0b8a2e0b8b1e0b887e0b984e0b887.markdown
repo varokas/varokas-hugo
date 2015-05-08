@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-07-03 03:07:44+00:00
-layout: post
 slug: '%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%ab%e0%b8%b8%e0%b9%89%e0%b8%99%e0%b8%94%e0%b8%b5%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87'
 title: เลือกหุ้นดียังไง
 wordpress_id: 668

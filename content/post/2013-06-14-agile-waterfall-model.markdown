@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2013-06-14 02:36:28+00:00
-layout: post
 slug: agile-waterfall-model
 title: An Agile development model called "Waterfall"
 wordpress_id: 264

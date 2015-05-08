@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2012-08-13 00:47:40+00:00
-layout: post
 slug: definition-of-incrementally-done
 title: Definition of Incrementally Done
 wordpress_id: 250

@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-07-21 02:07:12+00:00
-layout: post
 slug: power-of-compound-interest
 title: พลังของดอกเบี้ยทบต้น
 wordpress_id: 700

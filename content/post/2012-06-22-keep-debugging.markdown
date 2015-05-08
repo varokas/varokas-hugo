@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2012-06-22 11:24:14+00:00
-layout: post
 slug: keep-debugging
 title: Keep Debugging
 wordpress_id: 185

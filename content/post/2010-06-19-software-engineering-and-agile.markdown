@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2010-06-19 04:47:00+00:00
-layout: post
 slug: software-engineering-and-agile
 title: Software Engineering and Agile
 wordpress_id: 165

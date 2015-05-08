@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-08-05 05:47:03+00:00
-layout: post
 slug: cfo-love-agile
 title: 5 เหตุผลที่ CFO คุณจะตกหลุมรัก Agile
 wordpress_id: 774

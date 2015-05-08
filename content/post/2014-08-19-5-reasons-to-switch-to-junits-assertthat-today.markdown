@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-08-19 04:34:24+00:00
-layout: post
 slug: 5-reasons-to-switch-to-junits-assertthat-today
 title: 5 reasons to switch to JUnit's assertThat(...) today
 wordpress_id: 908

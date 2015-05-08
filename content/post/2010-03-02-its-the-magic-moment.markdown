@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2010-03-02 04:18:05+00:00
-layout: post
 published: false
 slug: its-the-magic-moment
 title: It's the Magic Moment

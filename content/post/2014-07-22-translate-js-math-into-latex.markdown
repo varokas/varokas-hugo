@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-07-22 03:14:27+00:00
-layout: post
 slug: translate-js-math-into-latex
 title: Translate JS Math into Latex
 wordpress_id: 715

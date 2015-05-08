@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2010-02-27 21:19:14+00:00
-layout: post
 slug: stop-making-excuses
 title: Stop Making Excuses
 wordpress_id: 18

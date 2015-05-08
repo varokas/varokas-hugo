@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2013-11-27 07:36:40+00:00
-layout: post
 slug: learning-is-not-linear
 title: Learning is not linear
 wordpress_id: 274

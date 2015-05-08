@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-01-30 08:08:42+00:00
-layout: post
 slug: agile-thailand-2014-in-my-dream-part-2
 title: 'Agile Thailand 2014 ในความฝัน (ตอนที่ 2: การจัดงาน)'
 wordpress_id: 460

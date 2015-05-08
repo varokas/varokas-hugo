@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-07-26 02:19:01+00:00
-layout: post
 slug: pricing-discount-value
 title: 'พื้นฐานคำนวณราคาหุ้น : Discounted Value'
 wordpress_id: 753

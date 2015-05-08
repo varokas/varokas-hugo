@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2010-03-28 18:43:49+00:00
-layout: post
 slug: continuous-integration-in-15-minutes-with-hudson
 title: Continuous Integration in 15 Minutes with Hudson
 wordpress_id: 113

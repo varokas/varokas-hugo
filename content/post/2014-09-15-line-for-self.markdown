@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-09-15 01:07:26+00:00
-layout: post
 slug: line-for-self
 title: เส้นที่ขีดไว้ให้ตัวเอง
 wordpress_id: 949

@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2010-05-02 21:34:51+00:00
-layout: post
 published: false
 slug: dontknow
 title: อะไรก็ไม่รู้

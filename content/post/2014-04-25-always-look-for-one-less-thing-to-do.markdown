@@ -2,7 +2,6 @@
 author: varokas
 comments: true
 date: 2014-04-25 05:52:01+00:00
-layout: post
 slug: always-look-for-one-less-thing-to-do
 title: Always look for one less thing to do
 wordpress_id: 502
