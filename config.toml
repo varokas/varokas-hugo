@@ -2,6 +2,7 @@ theme = "hyde-x"
 baseurl = "http://www.varokas.com"
 languageCode = "en-us"
 title = "VP"
+titleBar = "Minimal Engineering"
 disqusShortname = "varokas"
 
 [author]
