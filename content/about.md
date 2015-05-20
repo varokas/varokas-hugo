@@ -3,14 +3,14 @@ author: varokas
 comments: true
 date: 2015-05-02
 layout: post
-title: About Me 
+title: About Me
 wordpress_id: 18
 menu: main
 categories:
 - Software Engineering
 ---
 
-A code craftman and Agile enthusiast based in California, USA. After a master degree in Software Engineering from Carnegie Mellon University, Varokas worked with teams on Agile adoption. Pushing from monthly to weekly releases, growing from small co-located to global scale. 
+A code craftsman and Agile enthusiast based in California, USA. After a master degree in Software Engineering from Carnegie Mellon University, Varokas worked with teams on Agile adoption. Pushing from monthly to weekly releases, growing from small co-located to global scale. 
 
 As an international speaker on Agile in Enterprise and Continuous Delivery. He initiated the first and continuing national Thailand Agile conference series with [Agile66](http://www.facebook.com/groups/agile66) group in 2012.
 
@@ -73,4 +73,3 @@ The best way to learn is by creating a safe environment to play, jumping into it
     *   Agile66 Facebook [group](https://www.facebook.com/groups/agile66/ "Agile 66 Group")
         *   SPIN Thailand
         *   My internet band group: [404 Production](https://www.facebook.com/404production "404 Production")
-        
