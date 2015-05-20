@@ -10,12 +10,13 @@ categories:
 - Software Engineering
 ---
 
-A code craftsman and Agile enthusiast based in California, USA. After a master degree in Software Engineering from Carnegie Mellon University, Varokas worked with teams on Agile adoption. Pushing from monthly to weekly releases, growing from small co-located to global scale. 
+A code craftsman and Agile enthusiast based in California. Varokas currently works at Apple and previously at ADP.
 
-As an international speaker on Agile in Enterprise and Continuous Delivery. He initiated the first and continuing national Thailand Agile conference series with [Agile66](http://www.facebook.com/groups/agile66) group in 2012.
+After a master degree in Software Engineering from Carnegie Mellon University, Varokas worked with teams on Agile adoption. Pushing from monthly to weekly releases, growing from small co-located to global scale.
 
-Besides maintaing a [blog](http://www.varokas.com/) in software engineering, Varokas enjoys [improvised piano playing](https://soundcloud.com/varokas), [creative cooking](https://www.facebook.com/varokas/media_set?set=a.10151285672213690.525415.709838689&type=3) and hiking.
+Varokas is an international speaker on Enterprise Agile and Continuous Delivery. He initiated the first national Thailand Agile conference series with [Agile66](http://www.facebook.com/groups/agile66) group started from 2012, continuing till today.
 
+Besides maintaining a [blog](http://www.varokas.com/) in software engineering, Varokas enjoys [improvised piano playing](https://soundcloud.com/varokas), [creative cooking](https://www.facebook.com/varokas/media_set?set=a.10151285672213690.525415.709838689&type=3) and hiking.
 
 
 ## Projects
